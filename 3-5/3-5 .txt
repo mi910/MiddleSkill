@@ -1,0 +1,17 @@
+﻿⚫️課題3-5
+
+
+①リポジトリーとは何ですか？
+データの取得・保存・更新・削除（CRUD操作）を行う場所
+
+
+②次の中でリポジトに当てはまるものはどれになりますか？(controller、service、view、seviceimpl、entity、dao、daoimpl)
+dao、daoimpl
+
+
+③次の中でリポジトリで取得した値を格納するものはどれですか？(controller、service、view、seviceimpl、entity、dao、daoimpl)
+entity
+
+
+④AOPとは何ですか？
+アプリケーションの共通処理を横断的にまとめる手法
