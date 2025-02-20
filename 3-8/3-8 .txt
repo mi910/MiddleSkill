@@ -1,0 +1,38 @@
+﻿⚫️課題3-8
+
+
+①Thymeleafとは何ですか？
+Spring Boot で使われる Java向けのテンプレートエンジン 
+
+
+②Thymeleafで処理できるテンプレートエンジンはどのようなものがありますか？
+主にHTML
+
+
+③ThymeleafとJspどちらの方が利便性が高いですか？またその理由も答えなさい。
+Thymeleafの方が利便性が高い
+JSPの欠点であったJavaとHTMLコードが混ざってしまうという問題もThymeleafによって解消されているため
+
+
+
+
+④Thymeleafで条件演算子はどのように記述しますか？
+三項演算子（? :）を使用する
+
+
+⑤Thymeleafで条件式に使う属性は何ですか？
+th:if と th:unless
+
+
+
+
+⑥Thymeleafで繰り返し処理に使う属性は何ですか？
+ th:each
+
+
+⑦HTMLにそのままThymeleafのタグを利用しようとして使用することはできません。そのためThymeleafのタグを使用するためHTMLにはどんな記述が必要でしょうか？
+HTMLタグに xmlnsを追加する
+
+
+⑧formタグのactionタグに相当し、リンク式を用いてフォームを送信するURLを指定する属性は何ですか？
+th:action
